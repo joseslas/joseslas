@@ -1,25 +1,26 @@
-Holaa!! Soy Jose Gamarra 
+¡Hola, José Gamarra!
 -
-Soy Jose pero me gusta que me llamen por mi tercer nombre "Alejandro" o "Alejo".
+Soy José Gamarra, pero me gusta que me llamen por mi tercer nombre "Alejandro" o "Alejo".
 
-Quien soy?
+¿Quién soy?
 -
-Soy Full Stack Developer con conocimientos mas orientados al front-end y a lo visual
+Soy un Full Stack Developer con enfoque principalmente en el front-end y aspectos visuales.
 
-Desde los 15 años la programacion ha sido de mi interes.Javascript es mi primer lenguaje de programacion.El desarrollo web a mi parecer es un mundo fascinante la opcion de plantear diferentes soluciones a un problema es lo que mas me atrapo.
+Desde los 15 años, la programación ha sido de gran interés para mí. JavaScript fue mi primer lenguaje de programación. El desarrollo web, en mi opinión, es un mundo fascinante. La posibilidad de plantear diferentes soluciones a un problema es lo que más me atrapa.
 
-Que hago?
+¿Qué hago?
 -
-Actualmente estoy aprendiendo nuevas tecnologias de manera autodidacta y constante para enriquezer mis perspectivas en la programacion
+Actualmente, estoy aprendiendo nuevas tecnologías de manera autodidacta y constante para enriquecer mis perspectivas en la programación.
 
-Mi odjetivo?
+¿Mi objetivo?
 -
-Mi objetivo ahora mismo es ingresar al mundo laboral en donde pueda poner en practica mis conocimientos, aprender mucho mas y mejorar mis aptitudes como persona y programador
+En este momento, mi objetivo principal es ingresar al mundo laboral, donde pueda poner en práctica mis conocimientos, aprender mucho más y mejorar tanto como persona como programador.
 
-Tecnologias que uso?
+Tecnologías que utilizo:
 -
-- Javascript
-- React
-- Redux
-- Node
-- Sequelize
+
+-Javascript
+-React
+-Redux
+-Node
+-Sequelize
