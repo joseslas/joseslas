@@ -18,9 +18,12 @@ En este momento, mi objetivo principal es ingresar al mundo laboral, donde pueda
 
 Tecnologías que utilizo:
 -
-
 -Javascript
 -React
 -Redux
 -Node
 -Sequelize
+-Postgresql
+-Express
+-HTML y CSS
+-Git
